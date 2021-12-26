@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "first stream",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "description": "here is some stream",
+      "title": "second stream",
+      "id": 2
+    },
+    {
+      "title": "title also changed",
+      "description": "Changed",
+      "id": 3
+    }
+  ]
+}
